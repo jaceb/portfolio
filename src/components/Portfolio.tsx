@@ -10,6 +10,7 @@ interface MousePosition {
     y: number;
 }
 
+
 // interface Project {
 //     title: string;
 //     description: string;
